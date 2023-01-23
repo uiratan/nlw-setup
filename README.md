@@ -1,1 +1,1 @@
-"# nlw-setup" 
+# nlw-setup-mobile
